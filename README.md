@@ -1,0 +1,2 @@
+# emeraldjava-typesafe
+Typesafe
