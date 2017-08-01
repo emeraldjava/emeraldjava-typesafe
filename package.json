@@ -1,0 +1,26 @@
+{
+  "name": "emeraldjava-typesafe",
+  "version": "1.0.0",
+  "description": "Typesafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeraldjava/emeraldjava-typesafe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emeraldjava/emeraldjava-typesafe/issues"
+  },
+  "homepage": "https://github.com/emeraldjava/emeraldjava-typesafe#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "gulp-typescript": "^3.1.4",
+    "jasmine": "^2.5.3"
+  }
+}
